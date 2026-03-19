@@ -1,0 +1,29 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+*.class
+
+# Spring Boot specific
+*.jar
+*.war
+*.ear
+
+# Others
+*.swp
+

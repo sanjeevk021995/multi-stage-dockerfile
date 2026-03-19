@@ -1,0 +1,23 @@
+# Maven build output
+target/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Documentation
+*.md
+
+# Git files
+.git/
+.gitignore
+
+# IDE configs
+.idea/
+.vscode/
+
+# Misc
+Dockerfile
+README.md
+
